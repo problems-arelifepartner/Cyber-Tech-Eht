@@ -18,7 +18,7 @@ $ pkg install git -y
 
 $ pkg install bash 
 
-$ git clone
+$ git clone https://github.com/problems-arelifepartner/Cyber-Tech-Eht
 
 $ cd Cyber-Tech-Eht
 
