@@ -14,14 +14,14 @@ A tool made by Bash which is useful for those who wish to become cyber security 
 
 $ apt update && apt upgrade
 
-$ pkg install git -y
-
-$ pkg install bash 
-
 $ git clone https://github.com/problems-arelifepartner/Cyber-Tech-Eht
 
 $ cd Cyber-Tech-Eht
 
+$ pkg install python
+
+$ python require.py
+ 
 $ chmod +x C3H.sh
 
 $ bash C3H.sh
