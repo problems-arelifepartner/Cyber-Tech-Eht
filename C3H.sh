@@ -54,4 +54,6 @@ cd win_AD; git clone https://github.com/DarkVairous/Finder-The-Admin-Panel; `ech
 cd win_AD; git clone https://github.com/Ranginang67/M-dork; `echo $home`
 #Dalfox
 cd win_AD; git clone https://github.com/Elsfa7-110/dalfox; `echo $home`
+# Discover
+cd win_AD; git clone https://github.com/leebaird/discover; `echo $home`
 Footer
